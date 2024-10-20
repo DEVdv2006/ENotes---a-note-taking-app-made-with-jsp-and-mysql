@@ -1,6 +1,12 @@
 Task Management Application
 Overview
 The Task Management Application is a simple web-based tool built using JSP (JavaServer Pages) and MySQL to help users manage their notes or tasks efficiently. Users can create, edit, and delete tasks, making it a useful utility for organizing personal or professional activities.
+IMAGES
+![Screenshot 2024-10-20 193309](https://github.com/user-attachments/assets/fea5bcca-5495-4732-890f-9de1988f0806)
+![Screenshot 2024-10-20 193333](https://github.com/user-attachments/assets/542a28b3-1324-47d2-b67b-4059f424d1c2)
+![Screenshot 2024-10-20 193415](https://github.com/user-attachments/assets/cffb74e2-720e-4441-b84a-b9ef671a11b6)
+![Screenshot 2024-10-20 193452](https://github.com/user-attachments/assets/96727d49-7529-4658-98a3-e52a7cb616d9)
+
 
 Features
 User Authentication: Secure user sessions for managing personal tasks.
